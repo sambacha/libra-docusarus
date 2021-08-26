@@ -1,0 +1,67 @@
+{
+  "_from": "@libra-opensource/diem-docusaurus-components",
+  "_id": "@libra-opensource/diem-docusaurus-components@0.1.19",
+  "_inBundle": false,
+  "_integrity": "sha512-RyN4AfsrPEtyhe0GF9128qpOHaop3/xreQNWRvGSj7UC1MszjU2Xh8iX1uDU5PDkuWspMfSYOlYaKD341V5EwQ==",
+  "_location": "/@libra-opensource/diem-docusaurus-components",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@libra-opensource/diem-docusaurus-components",
+    "name": "@libra-opensource/diem-docusaurus-components",
+    "escapedName": "@libra-opensource%2fdiem-docusaurus-components",
+    "scope": "@libra-opensource",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@libra-opensource/diem-docusaurus-components/-/diem-docusaurus-components-0.1.19.tgz",
+  "_shasum": "2059f38ef7f5f2d1979fa883f5bc6392ee720fbd",
+  "_spec": "@libra-opensource/diem-docusaurus-components",
+  "_where": "/Users/sbacha/diem-docs",
+  "author": {
+    "name": "Diem Association",
+    "email": "info@diem.com"
+  },
+  "bugs": {
+    "url": "https://github.com/diem/diem-docusaurus-components/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "docsearch.js": "^2.6.3",
+    "prism-react-renderer": "^1.1.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-cookie-consent": "^5.1.3",
+    "react-dom": "^16.8.4",
+    "react-socks": "^2.1.0",
+    "webpack": "^4.43.0"
+  },
+  "deprecated": false,
+  "description": "To be used in between different docusaurus sites under the Diem brand",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.17.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-react": "^7.22.0",
+    "prettier": "^2.2.1",
+    "pretty-quick": "^3.1.0"
+  },
+  "homepage": "https://github.com/diem/diem-docusaurus-components#readme",
+  "license": "ISC",
+  "main": "src",
+  "name": "@libra-opensource/diem-docusaurus-components",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diem/diem-docusaurus-components.git"
+  },
+  "version": "0.1.19"
+}
