@@ -90,7 +90,7 @@ module.exports = {
         },
         {
           label: "Ecosystem",
-          to: "#",,
+          to: "#",
         },
         {
           id: "developers",
