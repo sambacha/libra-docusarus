@@ -1,34 +1,34 @@
 module.exports = {
-  title: "Diem",
-  tagline: "A New Global Payment System",
+  title: "Yearn Finnace",
+  tagline: "Governance",
   baseUrl: "/",
   organizationName: "diem",
   projectName: "diem",
   themeConfig: {
     logo: {
-      alt: "Diem Logo",
+      alt: "Yearn Logo",
       src: "/img/shared/logo.svg",
-      to: "https://www.diem.com/",
+      to: "https://www.yearn.finance/",
     },
     footer: {
       links: [
         {
           items: [
             {
-              label: "Vision",
-              to: "https://www.diem.com/vision/",
+              label: "Snapshot",
+              to: "#",
             },
             {
-              label: "Association",
-              to: "https://www.diem.com/association/",
+              label: "Forums",
+              to: "#",
             },
             {
               label: "Developers",
-              to: "https://developers.diem.com/docs/welcome-to-diem/",
+           to: "#",
             },
             {
               label: "Learn",
-              to: "https://www.diem.com/learn-faqs/",
+               to: "#",
             },
           ],
         },
@@ -53,22 +53,22 @@ module.exports = {
             {
               type: "secondary",
               label: "Privacy",
-              to: "https://www.diem.com/privacy/",
+              to: "#",
             },
             {
               type: "secondary",
               label: "Cookies",
-              to: "https://www.diem.com/privacy/#cookies_policy",
+              to: "#",
             },
             {
               type: "secondary",
               label: "Terms of Use",
-              to: "https://www.diem.com/privacy/#terms_of_use",
+              to: "#",
             },
             {
               type: "secondary",
               label: "Code of Conduct",
-              to: "https://developers.diem.com/docs/policies/code-of-conduct",
+              to: "#",
             },
           ],
         },
@@ -78,62 +78,60 @@ module.exports = {
   },
   customFields: {
     socialLinks: {
-      facebook: "https://www.facebook.com/diemdevelopers/",
-      linkedIn: "https://www.linkedin.com/company/diemassociation/",
-      twitter: "https://twitter.com/diemdevelopers/",
-      instagram: "https://www.instagram.com/diemassociation/",
-      github: "https://github.com/diem",
+      telegram: "#",
+      twitter: "https://twitter.com/",
+      github: "#",
     },
     navbar: {
       primaryLinks: [
         {
           label: "Vision",
-          to: "https://www.diem.com/vision/",
+          to: "#",
         },
         {
-          label: "Association",
-          to: "https://www.diem.com/association/",
+          label: "Ecosystem",
+          to: "#",,
         },
         {
           id: "developers",
           label: "Developers",
-          to: "https://developers.diem.com/docs/welcome-to-diem/",
+          to: "#",
         },
         {
           label: "Learn",
-          to: "https://www.diem.com/learn-faqs/",
+          to: "#",
         },
         {
-          label: "Media",
-          to: "https://www.diem.com/media-press-news/",
+          label: "Discord",
+          to: "#",
         },
       ],
       cornerLink: {
-        label: "White Paper",
-        to: "https://www.diem.com/white-paper/",
+        label: "Wallet Connect",
+        to: "#",
         image: {
-          alt: "Diem Whitepaper",
+          alt: "web3",
         },
       },
       secondaryLinks: [
         {
           id: "developers",
-          label: "Diem Documentation",
+          label: "Documentation",
           to: "https://developers.diem.com/docs/welcome-to-diem/",
         },
         {
-          id: "dips",
-          label: "DIP Overview",
-          to: "https://dip.diem.com/",
+          id: "yips",
+          label: "YIP Overview",
+          to: "https://yips.yearn.finance/",
         },
         {
           label: "Community",
-          to: "https://community.diem.com/",
+          to: "#",
         },
         {
           isExternal: true,
           label: "GitHub",
-          to: "https://github.com/diem/",
+          to: "https://github.com/yearn/",
         },
       ],
     },
